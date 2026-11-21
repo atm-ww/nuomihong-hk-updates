@@ -1,0 +1,25 @@
+{
+ "schema": 1,
+ "locale": "zh_hk",
+ "packs": [
+  {
+   "id": "boogaloo",
+   "name": "Integrated Boogaloo",
+   "version": "1.0.3",
+   "minecraftVersion": "1.21.1",
+   "loader": "NeoForge",
+   "curseForgeProjectId": 1501592,
+   "curseForgeFileId": 9584599,
+   "sourceName": "Integrated Boogaloo",
+   "sourceVersion": "1.1.7",
+   "package": {
+    "size": 1102333,
+    "sha256": "323c8d1423b7614d8cd04f8207e5e49d3df644d9942e3c13bd1e169b93f3f73f"
+   },
+   "logo": {
+    "size": 130454,
+    "sha256": "2c978cfd0fb2b2db9d287ae80ed5e2895b0d69f2eda83aa0c5fa42d633de6258"
+   }
+  }
+ ]
+}
